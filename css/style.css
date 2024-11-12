@@ -381,7 +381,7 @@
         width: 70%;
     }
     
-    /* teams section styling */
+   /*/* teams section styling */
     .teams .title::after{
         content: "who with me";
     }
@@ -442,7 +442,7 @@
     .owl-dot.active,
     .owl-dot:hover{
         background: crimson!important;
-    }
+    }*/
     
     /* contact section styling */
     .contact .title::after{
