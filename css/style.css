@@ -166,7 +166,7 @@
     /* home section styling */
     .home{
         display: flex;
-        background: url("3.png" );
+        background: url("../3.png" );
         height: 100vh;
         color: #4e4b4b;
         min-height: 500px;
