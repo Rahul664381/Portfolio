@@ -19,7 +19,7 @@ const projects = [
     image: Portfolio,
     description:
       "Created a personal portfolio showcasing skills, internship experience, and projects using React.js and Bootstrap. Deployed on Vercel for live access.",
-    live: "https://rahul-portfolio.vercel.app",
+    live: "https://rahul-mishra-portfolio.vercel.app/",
     github: "https://github.com/Rahul664381",
     technologies: ["React", "Bootstrap", "Vercel"],
   },
