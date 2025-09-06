@@ -9,9 +9,9 @@ import {
 
 const experience = [
   {
-    year: "Feb 2025 - July 2025",
+    year: "Jan 2025 - Jun 2025",
     role: "Frontend Development Intern",
-    company: "I-Tech Skills and Solutions",
+    company: "I Digitech Private Limited, Mumbai",
     details:
       "Developed responsive web pages using React.js, Tailwind CSS, and JavaScript. Collaborated with senior developers to debug and improve website performance.",
     icon: <FaBriefcase />,

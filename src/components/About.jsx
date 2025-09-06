@@ -201,8 +201,8 @@ export default function About() {
             className="mt-6 p-4 bg-gradient-to-r from-blue-900/30 to-purple-900/30 rounded-lg border-l-4 border-blue-500 hover:from-blue-900/50 hover:to-purple-900/50 transition-all duration-300 group"
           >
             <p className="text-blue-300 font-medium group-hover:text-blue-100 transition-colors">
-              Internship Experience: I-Tech Skills and Solutions (Feb 2025 –
-              July 2025)
+              Internship Experience: I Digitech Private Limited, Mumbai (Jan
+              2025 – Jun 2025)
             </p>
           </motion.div>
 
